@@ -3,7 +3,7 @@
 [![style: very good analysis][very_good_analysis_badge]][very_good_analysis_link]
 [![License: MIT][license_badge]][license_link]
 
-A command line starter created with [`mason`][mason].
+A simple program to server rendered markdown. Mostly being used for experimental purposes.
 
 ## Getting started
 
